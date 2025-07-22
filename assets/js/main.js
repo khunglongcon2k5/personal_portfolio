@@ -73,7 +73,7 @@ let swiper = new Swiper('.portfolio_container', {
     loop: true,
 
     autoplay: {
-        delay: 3000,
+        delay: 2000,
         disableOnInteraction: false,
     },
 
@@ -91,7 +91,7 @@ let swiper = new Swiper('.portfolio_container', {
         enabled: true,
     },
 
-    speed: 600,
+    speed: 1000,
 });
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
